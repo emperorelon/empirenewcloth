@@ -40,7 +40,7 @@ defaults:
       layout: "project"
 
 markdown: kramdown
-theme: 
+theme: personal
 
 kramdown:
   input: GFM
