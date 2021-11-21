@@ -1,6 +1,6 @@
-site: Personal Jekyll Theme
+site: Empire New Cloth Collection
 
-url: 
+url: https://www.empirenewcloth.com
 baseurl: 
 
 collections:
@@ -40,6 +40,7 @@ defaults:
       layout: "project"
 
 markdown: kramdown
+theme: 
 
 kramdown:
   input: GFM
