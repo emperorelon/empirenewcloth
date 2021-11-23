@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: Empire New Cloth
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -16,6 +16,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Mint'
+      url: 'store.empirenewcloth.com/'
 
 footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
