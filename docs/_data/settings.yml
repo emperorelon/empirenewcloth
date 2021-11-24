@@ -1,9 +1,9 @@
 basic_settings:
   site_title: Empire New Cloth
-  favicon_image: /images/favicon.png
+  favicon_image: /images/favicon.jpg
 
 header_settings:
-  logo_image: 
+  logo_image: /images/demo/encc-logo.png
   logo_width: 200
 
 menu_settings:
