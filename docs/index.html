@@ -23,7 +23,7 @@ featured_image: /images/demo/home.jpg
 			the first of which is access to THE EMPIRE (details to follow). 
 			Future areas and perks can be unlocked by the community through roadmap activation -->
 
-			<p><a href="https://www.solsea.io" class="button button--large">Buy on Solsea</a> <a href="https://store.empirenewcloth.com" class="button button--large">Mint an NFT</a></p>
+			<p><a href="https://www.solsea.io" class="button button--large">Buy on Solsea</a> <a href="https://store.empirenewcloth.com" class="button button--large" target="_top">Mint an NFT</a></p>
 
 		{% include socials.html %}
 
@@ -58,3 +58,35 @@ featured_image: /images/demo/home.jpg
 	</div>
 
 </section>
+
+<!-- 
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for project in site.projects reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">{{ project.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
+
+
+-->
