@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Mint'
-      url: 'https://store.empirenewcloth.com/'
+      url: 'https://mint.empirenewcloth.com/'
 
 footer_settings:
   footer_tagline: The Emperor's new clothes Reimagined in the Metaverse.
