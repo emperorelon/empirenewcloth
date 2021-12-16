@@ -8,10 +8,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Roadmap'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'Mint'
       url: 'https://mint.empirenewcloth.com/'
 
